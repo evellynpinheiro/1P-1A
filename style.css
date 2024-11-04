@@ -1,10 +1,11 @@
 body{
-    background-color: rgb(255, 159, 172);
-    color:white;
+    background-color: green;
+    color:violet;
 }
 p{
-    color: aqua;
+    color:blueviolet;
     font-size: 10px;
-    background-color: black;
+    font-weight: 700;
+    background-color: aqua;
     padding: 5px;
 }
